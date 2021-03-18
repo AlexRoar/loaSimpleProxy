@@ -1,0 +1,6 @@
+---
+proxy:
+  port: 8098
+  bypass:
+      host: http://www.tarantool.org/en/doc/latest/getting_started/
+      port: 80
